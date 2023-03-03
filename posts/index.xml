@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shoma&#39;s Shallow Insights</title>
-    <link>https://bory-kb.github.io/</link>
-    <description>Recent content on Shoma&#39;s Shallow Insights</description>
+    <title>Posts on Shoma&#39;s Shallow Insights</title>
+    <link>https://bory-kb.github.io/posts/</link>
+    <description>Recent content in Posts on Shoma&#39;s Shallow Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 03 Mar 2023 14:49:21 +0900</lastBuildDate><atom:link href="https://bory-kb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 14:49:21 +0900</lastBuildDate><atom:link href="https://bory-kb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>InnerSource Heroes に選ばれました</title>
       <link>https://bory-kb.github.io/posts/innersource-heroes-%E3%81%AB%E9%81%B8%E3%81%B0%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/</link>
