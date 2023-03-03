@@ -25,7 +25,7 @@ social:
 
 params:
   author: Shoma Kubo
-  bio: 薄っぺらいことをつらつらと
+  bio: 薄っぺらいことをつらつらと書くブログ
   enableComments: true
   enableGoogleAnalytics: true
 
