@@ -13,6 +13,9 @@ markup:
   highlight:
     guessSyntax: true
     style: emacs
+  goldmark:
+      renderer:
+        unsafe: true
 
 
 social:
@@ -22,6 +25,6 @@ social:
 params:
   author: Shoma Kubo
   bio: InnerSource & Scrum Product Owner
-  description: 浅い内容をつらつらと
   enableComments: true
   enableGoogleAnalytics: true
+
