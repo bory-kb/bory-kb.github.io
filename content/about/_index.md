@@ -14,8 +14,8 @@ InnerSource Heroes ( InnerSource Commons Japan Community Lead )
 
 ## Certification
 
-- Certified ScrumMaster®
-- Microsoft Certified: DevOps Engineer Expert
-- Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft 365 Certified: Teams Administrator Associate
-- Microsoft Certified: Azure Data Engineer Associate
+Certified ScrumMaster®  
+Microsoft Certified: DevOps Engineer Expert  
+Microsoft Certified: Azure Solutions Architect Expert  
+Microsoft 365 Certified: Teams Administrator Associate  
+Microsoft Certified: Azure Data Engineer Associate  
