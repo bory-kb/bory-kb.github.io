@@ -1,0 +1,27 @@
+baseURL: https://bory-kb.github.io/
+languageCode: ja-jp
+title: Shoma's Shallow Insights
+theme: mini
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+googleAnalytics: UA-123-45
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+
+social:
+  github: https://github.com/bory-kb
+  twitter: https://twitter.com/bory_kb
+
+params:
+  author: Shoma Kubo
+  bio: InnerSource & Scrum Product Owner
+  description: 浅い内容をつらつらと
+  enableComments: true
+  enableGoogleAnalytics: true
