@@ -7,7 +7,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: ""
+googleAnalytics: "G-ST5SGTG6YW"
 
 markup:
   highlight:
