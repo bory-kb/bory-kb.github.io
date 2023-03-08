@@ -8,7 +8,7 @@ tags: ["innersource","innersource heroes"]
 2022年の下半期に立ち上がった InnerSource Commons Japan コミュニティの運営だったりに携わっていたことを評価してもらえたようで
 InnerSource Heroes に選んでいただきました。
 
-<img src="../2023-3-3/2023-03-03-14-55-21.png" border=5>
+<img src="../2023-3-3/2023-03-03-14-55-21.png" border=4>
 
 (名前が誤字ってるのはご愛敬)
 
