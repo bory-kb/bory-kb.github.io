@@ -25,11 +25,8 @@ jobs:
       - name: Install PostCSS
         run: npm install -g postcss postcss-cli autoprefixer
 
-      - name: env
-        run: HUGO_ENV=production hugo
-
       - name: Build
-        run: hugo
+        run: HUGO_ENV=production hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
