@@ -3,8 +3,6 @@ languageCode: ja-jp
 title: Shoma's Shallow Insights
 theme: mini
 
-enableRobotsTXT: false
-
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
